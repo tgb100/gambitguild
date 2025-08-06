@@ -66,10 +66,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## Contact
 
 - Email: singhashirwad2003@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/ashirwad08singh)
-- [GitHub](https://github.com/ashirwad08singh)
-- [Twitter](https://twitter.com/singhashir65848)
-
+- [LinkedIn](https://www.linkedin.com/in/tsangchup/)
+- [GitHub](https://github.com/tgb100)
 ---
 
 **Enjoy playing Chess Master!**
