@@ -1,12 +1,8 @@
-﻿# Chess Master
+﻿# Guild Master
 
 A real-time multiplayer chess platform with modern UI, move history, and spectator mode.
 
----
 
-## Demo Video
-
-[![Demo Video](https://img.youtube.com/vi/tKic7dz63Xs/0.jpg)](https://www.youtube.com/watch?v=tKic7dz63Xs)
 
 ## Features
 
@@ -35,8 +31,8 @@ A real-time multiplayer chess platform with modern UI, move history, and spectat
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/chess-master.git
-   cd chess-master
+   git clone https://github.com/yourusername/gambitguild.git
+   cd gambitguild
    ```
 
 2. **Install dependencies:**
@@ -70,4 +66,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 - [GitHub](https://github.com/tgb100)
 ---
 
-**Enjoy playing Chess Master!**
+**Enjoy playing Gambit Guild!**
