@@ -61,7 +61,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Contact
 
-- Email: bhutiatsangchup@@gmail.com
+- Email: bhutiatsangchup@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/tsangchup/)
 - [GitHub](https://github.com/tgb100)
 ---
